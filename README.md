@@ -1,6 +1,8 @@
 # Excel-Project
 Vrinda Store Data Analysis – Key Insights
+
 Data-Driven Insights:
+
 Gender Trend: Women contribute to 64% of total sales, indicating higher purchase behavior compared to men (36%).
 
 Top Performing States:
